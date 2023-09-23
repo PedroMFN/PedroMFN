@@ -1,18 +1,16 @@
 
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/PedroMFN/PedroMFN/assets/126207360/76b62b83-762b-41ee-8128-2879c9683724" />
 &nbsp;&nbsp;&nbsp;
+<p align="center">Nice to meet you, my name is Pedro, welcome to my github<br><br></p>
+<p align="center">Systems Analyst and Developer | Knowledge in Python | Learning in PyTorch, TensorFlow and Pandas. <br><br></p>
+<p>My name is Pedro Mendonça, I'm 23 years old, I'm looking for an internship in the programming area. I have knowledge in the area of ​​Python, Learning in PyTorch, TensorFlow and Pandas. I have used other languages ​​to learn and improve my performance.
 
-<p align="center">Systems Analyst and Developer | Knowledge in Python | Learning in PyTorch, TensorFlow and Pandas. <br><br> 
-My name is Pedro Mendonça, I'm 23 years old, I'm looking for an internship in the programming area.
+A brilliant mind has no limit to incredible creations, so time improves and evolves our knowledge to reach the top and achieve our incredible goals.</p>
 
-I have knowledge in the area of ​​Python, Learning in PyTorch, TensorFlow and Pandas. I have used other languages ​​to learn and improve my performance.
-
-A brilliant mind has no limit to incredible creations, so time improves and evolves our knowledge to reach the top and achieve our incredible goals.
-
-LET'S EMBARK ON THIS JOURNEY OF INCREDIBLE ACHIEVEMENTS?<strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center"><strong>LET'S EMBARK ON THIS JOURNEY OF INCREDIBLE ACHIEVEMENTS?</strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rafaelalexandrino&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PedroMFN&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
  </div>
  
