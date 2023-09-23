@@ -1,9 +1,11 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/PedroMFN/PedroMFN/assets/126207360/76b62b83-762b-41ee-8128-2879c9683724" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/PedroMFN/PedroMFN/assets/126207360/98cbe215-a480-48ef-ba3c-10d8b9c89707" />
 &nbsp;&nbsp;&nbsp;
 <p align="center">Nice to meet you, my name is Pedro, welcome to my github<br><br></p>
 <p align="center">Systems Analyst and Developer | Knowledge in Python | Learning in PyTorch, TensorFlow and Pandas. <br><br></p>
 <p>My name is Pedro Mendonça, I'm 23 years old, I'm looking for an internship in the programming area. I have knowledge in the area of ​​Python, Learning in PyTorch, TensorFlow and Pandas. I have used other languages ​​to learn and improve my performance.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b06a29&height=120&section=footer"/>
 
 A brilliant mind has no limit to incredible creations, so time improves and evolves our knowledge to reach the top and achieve our incredible goals.</p>
 
