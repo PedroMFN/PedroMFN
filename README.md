@@ -5,7 +5,6 @@
 <p align="center">Systems Analyst and Developer | Knowledge in Python | Learning in PyTorch, TensorFlow and Pandas. <br><br></p>
 <p>My name is Pedro Mendonça, I'm 23 years old, I'm looking for an internship in the programming area. I have knowledge in the area of ​​Python, Learning in PyTorch, TensorFlow and Pandas. I have used other languages ​​to learn and improve my performance.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FCD658&height=120&section=footer"/>
 
 A brilliant mind has no limit to incredible creations, so time improves and evolves our knowledge to reach the top and achieve our incredible goals.</p>
 
@@ -63,4 +62,4 @@ A brilliant mind has no limit to incredible creations, so time improves and evol
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FCD658&height=120&section=footer"/>
