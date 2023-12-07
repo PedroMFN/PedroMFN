@@ -13,6 +13,7 @@
 <p>Uma mente brilhante não tem limite para criações incríveis, por isso o tempo aprimora e evolui nosso conhecimento para chegar ao topo e atingir nossos objetivos incríveis.</p>
 <p>A brilliant mind has no limit to incredible creations, so time improves and evolves our knowledge to reach the top and achieve our incredible goals. <br><br></p>
 
+<p align="center"><strong>VAMOS EMBARCAR NESSA JORNADA DE CONQUISTAS INCRÍVEIS?</strong></p>&nbsp;
 <p align="center"><strong>LET'S EMBARK ON THIS JOURNEY OF INCREDIBLE ACHIEVEMENTS?</strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
