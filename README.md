@@ -3,7 +3,9 @@
 &nbsp;&nbsp;&nbsp;
 <p align="center">Prazer em conhecê-lo, meu nome é Pedro, bem vindo ao meu github</p>
 <p align="center">(Nice to meet you, my name is Pedro, welcome to my github)<br><br></p>
-<p align="center">Systems Analyst and Developer | Knowledge in Python | Studying in this moment: PyTorch, TensorFlow and Pandas. <br><br></p>
+
+<p align="center">Analista e Desenvolvedor de Sistemas | Conhecimento em Python | Estudando neste momento: PyTorch, TensorFlow e Pandas. </p>
+<p align="center">(Systems Analyst and Developer | Knowledge in Python | Studying in this moment: PyTorch, TensorFlow and Pandas.) <br><br></p>
 <p>My name is Pedro Mendonça, I'm 23 years old, I'm looking for an internship in the programming area. I have knowledge in the area of ​​Python, Learning in PyTorch, TensorFlow and Pandas. I have used other languages ​​to learn and improve my performance.
 
 
