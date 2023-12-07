@@ -6,10 +6,10 @@
 
 <p align="center">Analista e Desenvolvedor de Sistemas | Conhecimento em PYTHON, Programação WEB | Estudando neste momento: C#, JAVASCRIPT. </p>
 <p align="center">(Systems Analyst and Developer | Knowledge in PYTHON, WEB Programming | Currently studying: C#, JAVASCRIPT.) <br><br></p>
-<p>My name is Pedro Mendonça, I'm 23 years old, I'm looking for an internship in the programming area. I have knowledge in the area of ​​Python, Learning in PyTorch, TensorFlow and Pandas. I have used other languages ​​to learn and improve my performance.
+<p>O meu nome é Pedro Mendonça, tenho 23 anos, procuro estágio na área de programação. Tenho utilizado outras linguas para aprender e melhorar meu desempenho.
 
 
-A brilliant mind has no limit to incredible creations, so time improves and evolves our knowledge to reach the top and achieve our incredible goals.</p>
+Uma mente brilhante não tem limite para criações incríveis, por isso o tempo aprimora e evolui nosso conhecimento para chegar ao topo e atingir nossos objetivos incríveis.</p>
 
 <p align="center"><strong>LET'S EMBARK ON THIS JOURNEY OF INCREDIBLE ACHIEVEMENTS?</strong></p>&nbsp;
 
